@@ -1,0 +1,26 @@
+{
+  "name": "architect",
+  "version": "0.0.0",
+  "description": "Dynamic music prototyping.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "music",
+    "audio",
+    "dynamic",
+    "audio",
+    "game",
+    "audio",
+    "game",
+    "game",
+    "music",
+    "soundtrack"
+  ],
+  "author": "Mike Skalandunas <mskalandunas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^1.2.4"
+  }
+}
